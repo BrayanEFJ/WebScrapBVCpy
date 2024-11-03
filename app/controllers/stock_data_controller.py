@@ -21,8 +21,4 @@ async def obtener_y_exportar_datos(
     # Obtener datos
     stock_data_list = scraping_service.scrape_stock_data(parametro, fecha)
     
-    # Exportar a Excel
-    file_path = "stock_data.xlsx"
-    export_service.export_to_excel(stock_data_list, file_path)
-    
     return stock_data_list
