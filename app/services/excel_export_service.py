@@ -1,10 +1,10 @@
 from openpyxl import Workbook
 from typing import List
 import os
-from ..models.stock_data_model import StockData
+from app.models.stock_data_model import StockDataModel
 
 class ExcelExportService:
-    def export_to_excel(self, data_list: List[StockData], file_path: str):
+    def export_to_excel(self, data_list: List[StockDataModel], file_path: str):
         workbook = Workbook()
         sheet = workbook.active
         sheet.title = "Stock Data"

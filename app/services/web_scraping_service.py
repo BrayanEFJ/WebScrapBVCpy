@@ -9,33 +9,37 @@ from bs4 import BeautifulSoup
 from datetime import date
 import time
 from typing import List
-from ..models.stock_data_model import StockData
+from app.models.stock_data_model import StockDataModel
 
 class WebScrapingService:
-    def scrape_stock_data(self, parametro: str, fecha: date) -> List[StockData]:
+    def scrape_stock_data(self, parametro: str, fecha: date) -> List[StockDataModel]:
         URL = f"https://www.bvc.com.co/mercado-local-en-linea?tab=renta-variable_mercado-{parametro}"
         data_list = []
         seen_nemotecnicos = set()
 
         try:
-            # Configurar Chrome
+            # Configurar Chrome con opciones actualizadas
             options = Options()
             options.add_argument("--headless")
             options.add_argument("--window-size=1920,1080")
-            options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+            options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+
+            # Configuración actualizada del servicio y driver
+            service = Service(ChromeDriverManager().install())
+            driver = webdriver.Chrome(service=service, options=options)
             
-            driver = webdriver.Chrome(
-                service=Service(ChromeDriverManager().install()),
-                options=options
-            )
+            # Configurar tiempo de espera
             wait = WebDriverWait(driver, 15)
 
             try:
+                # Navegar a la URL
                 driver.get(URL)
 
+                # Tomar captura de pantalla para debugging
+                driver.save_screenshot('screenshot.png')
+
                 # Esperar a que los campos de fecha estén presentes
-                wait.until(EC.presence_of_element_located(
-                    (By.CSS_SELECTOR, ".react-date-picker__inputGroup")))
+                wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".react-date-picker__inputGroup")))
 
                 # Establecer los valores de fecha
                 self._set_date_fields(driver, fecha)
@@ -44,8 +48,7 @@ class WebScrapingService:
                 time.sleep(2)
 
                 # Esperar a que la tabla esté visible
-                wait.until(EC.visibility_of_element_located(
-                    (By.CSS_SELECTOR, "table.Tablestyled__StyledTable-sc-1ie6ajo-2")))
+                wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "table.Tablestyled__StyledTable-sc-1ie6ajo-2")))
 
                 # Obtener el HTML actualizado
                 html = driver.page_source
@@ -65,7 +68,7 @@ class WebScrapingService:
                                 continue
                             seen_nemotecnicos.add(nemotecnico)
 
-                            stock_data = StockData(
+                            stock_data = StockDataModel(
                                 nemotecnico=nemotecnico,
                                 ultimo_precio=cells[1].select_one("p").text.strip(),
                                 variacion_porcentual=cells[2].select_one("p").text.strip(),
@@ -85,18 +88,16 @@ class WebScrapingService:
                 driver.quit()
 
         except Exception as e:
+            print(f"Error detallado: {str(e)}")  # Añadido para mejor debugging
             raise RuntimeError(f"Error al realizar web scraping: {str(e)}")
 
         return data_list
 
     def _set_date_fields(self, driver, fecha: date):
         try:
-            year_input = driver.find_element(
-                By.CSS_SELECTOR, "input.react-date-picker__inputGroup__year")
-            month_input = driver.find_element(
-                By.CSS_SELECTOR, "input.react-date-picker__inputGroup__month")
-            day_input = driver.find_element(
-                By.CSS_SELECTOR, "input.react-date-picker__inputGroup__day")
+            year_input = driver.find_element(By.CSS_SELECTOR, "input.react-date-picker__inputGroup__year")
+            month_input = driver.find_element(By.CSS_SELECTOR, "input.react-date-picker__inputGroup__month")
+            day_input = driver.find_element(By.CSS_SELECTOR, "input.react-date-picker__inputGroup__day")
 
             # Limpiar y establecer el año
             year_input.clear()
@@ -110,6 +111,7 @@ class WebScrapingService:
             day_input.clear()
             day_input.send_keys(str(fecha.day))
 
+            # Dar tiempo para que se procese el cambio de fecha
             time.sleep(1)
 
         except Exception as e:
