@@ -1,0 +1,32 @@
+Nombre: Aval Acciones y Valores Pref
+Último: 429,0
+Máximo: 435,0
+Mínimo: 425,0
+Var.: 0,0
+% Var.: 0,00%
+Vol.: 550,79K
+Hora: 07/11
+
+Ejecución:
+Nombre: Aval Acciones y Valores Pref
+Diario: 0,00%
+Semanal: -1,38%
+Mensual: +3,37%
+Anual: -11,55%
+1 año: -4,67%
+3 años: -61,97%
+
+Técnico:
+Nombre: Aval Acciones y Valores Pref
+1 hora: 
+Diario: Neutral
+Semanal: Neutral
+Mensual: Venta fuerte
+
+Fundamental:
+Nombre: Aval Acciones y Valores Pref
+Vol. promedio (3m): 1,12M
+Cap. mercado: 10,19T
+Ingresos: 10,77T
+PER: 21,87
+Beta: 0,523

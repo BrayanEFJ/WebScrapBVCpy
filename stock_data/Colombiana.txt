@@ -1,0 +1,32 @@
+Nombre: Colombiana
+Último: 15.300,0
+Máximo: 15.320,0
+Mínimo: 15.100,0
+Var.: 0,0
+% Var.: 0,00%
+Vol.: 112,26K
+Hora: 07/11
+
+Ejecución:
+Nombre: Colombiana
+Diario: 0,00%
+Semanal: +0,66%
+Mensual: +20,47%
+Anual: +13,33%
+1 año: +19,53%
+3 años: -48,14%
+
+Técnico:
+Nombre: Colombiana
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra
+
+Fundamental:
+Nombre: Colombiana
+Vol. promedio (3m): 52,4K
+Cap. mercado: 5,59T
+Ingresos: 8,93T
+PER: 15,19
+Beta: 0,599

@@ -1,0 +1,32 @@
+Nombre: Cemargos
+Último: 8.670,0
+Máximo: 8.670,0
+Mínimo: 8.200,0
+Var.: +270,0
+% Var.: +3,21%
+Vol.: 656,68K
+Hora: 07/11
+
+Ejecución:
+Nombre: Cemargos
+Diario: +3,21%
+Semanal: +1,52%
+Mensual: +17,16%
+Anual: +41,90%
+1 año: +75,33%
+3 años: +38,06%
+
+Técnico:
+Nombre: Cemargos
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Cemargos
+Vol. promedio (3m): 1,57M
+Cap. mercado: 11,41T
+Ingresos: 12,61T
+PER: 1,86
+Beta: 0,848

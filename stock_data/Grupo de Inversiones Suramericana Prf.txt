@@ -1,0 +1,32 @@
+Nombre: Grupo de Inversiones Suramericana Prf
+Último: 23.300,0
+Máximo: 23.340,0
+Mínimo: 23.100,0
+Var.: -80,0
+% Var.: -0,34%
+Vol.: 75,36K
+Hora: 07/11
+
+Ejecución:
+Nombre: Grupo de Inversiones Suramericana Prf
+Diario: 0,00%
+Semanal: +1,13%
+Mensual: +15,35%
+Anual: +72,59%
+1 año: +95,14%
+3 años: +25,95%
+
+Técnico:
+Nombre: Grupo de Inversiones Suramericana Prf
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Grupo de Inversiones Suramericana Prf
+Vol. promedio (3m): 145,97K
+Cap. mercado: 15,26T
+Ingresos: 40,09T
+PER: 2,60
+Beta: 0,452

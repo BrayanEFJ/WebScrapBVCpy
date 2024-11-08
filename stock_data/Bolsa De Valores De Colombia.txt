@@ -1,0 +1,32 @@
+Nombre: Bolsa De Valores De Colombia
+Último: 9.750,0
+Máximo: 9.750,0
+Mínimo: 9.750,0
+Var.: 0,0
+% Var.: 0,00%
+Vol.: 330
+Hora: 06/11
+
+Ejecución:
+Nombre: Bolsa De Valores De Colombia
+Diario: 0,00%
+Semanal: 0,00%
+Mensual: +0,41%
+Anual: -15,22%
+1 año: +2,63%
+3 años: -1,22%
+
+Técnico:
+Nombre: Bolsa De Valores De Colombia
+1 hora: 
+Diario: Compra fuerte
+Semanal: Venta fuerte
+Mensual: Neutral
+
+Fundamental:
+Nombre: Bolsa De Valores De Colombia
+Vol. promedio (3m): 2,54K
+Cap. mercado: 590,01B
+Ingresos: 327,79B
+PER: 7,63
+Beta: 0,595

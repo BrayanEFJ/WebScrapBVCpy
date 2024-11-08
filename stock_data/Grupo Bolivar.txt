@@ -1,0 +1,32 @@
+Nombre: Grupo Bolivar
+Último: 60.500,00
+Máximo: 60.600,00
+Mínimo: 60.400,00
+Var.: -340,00
+% Var.: -0,56%
+Vol.: 2,77K
+Hora: 07/11
+
+Ejecución:
+Nombre: Grupo Bolivar
+Diario: -0,56%
+Semanal: -1,31%
+Mensual: +0,67%
+Anual: +2,58%
+1 año: +18,91%
+3 años: -11,55%
+
+Técnico:
+Nombre: Grupo Bolivar
+1 hora: 
+Diario: Venta fuerte
+Semanal: Neutral
+Mensual: Venta
+
+Fundamental:
+Nombre: Grupo Bolivar
+Vol. promedio (3m): 5,33K
+Cap. mercado: 4,79T
+Ingresos: 5,55T
+PER: 23,12
+Beta: 0,627

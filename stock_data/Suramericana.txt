@@ -1,0 +1,32 @@
+Nombre: Suramericana
+Último: 35.300,0
+Máximo: 35.500,0
+Mínimo: 35.300,0
+Var.: +40,0
+% Var.: +0,11%
+Vol.: 24,85K
+Hora: 07/11
+
+Ejecución:
+Nombre: Suramericana
+Diario: +0,11%
+Semanal: +1,44%
+Mensual: +23,86%
+Anual: +21,72%
+1 año: +9,63%
+3 años: +64,95%
+
+Técnico:
+Nombre: Suramericana
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Suramericana
+Vol. promedio (3m): 55,73K
+Cap. mercado: 15,26T
+Ingresos: 40,09T
+PER: 2,60
+Beta: 0,452

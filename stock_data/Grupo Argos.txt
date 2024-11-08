@@ -1,0 +1,32 @@
+Nombre: Grupo Argos
+Último: 19.280,0
+Máximo: 19.280,0
+Mínimo: 18.980,0
+Var.: +20,0
+% Var.: +0,10%
+Vol.: 84,64K
+Hora: 07/11
+
+Ejecución:
+Nombre: Grupo Argos
+Diario: +0,10%
+Semanal: 0,00%
+Mensual: +6,99%
+Anual: +55,23%
+1 año: +107,76%
+3 años: +63,39%
+
+Técnico:
+Nombre: Grupo Argos
+1 hora: 
+Diario: Compra
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Grupo Argos
+Vol. promedio (3m): 217,73K
+Cap. mercado: 16,51T
+Ingresos: 22,75T
+PER: 3,98
+Beta: 0,358

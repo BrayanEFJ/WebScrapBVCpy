@@ -1,0 +1,32 @@
+Nombre: Interconnection Electric
+Último: 17.700,0
+Máximo: 17.980,0
+Mínimo: 17.680,0
+Var.: -280,0
+% Var.: -1,56%
+Vol.: 155,38K
+Hora: 07/11
+
+Ejecución:
+Nombre: Interconnection Electric
+Diario: 0,00%
+Semanal: +1,49%
+Mensual: +3,87%
+Anual: +14,34%
+1 año: +15,08%
+3 años: -21,68%
+
+Técnico:
+Nombre: Interconnection Electric
+1 hora: 
+Diario: Neutral
+Semanal: Compra
+Mensual: Compra
+
+Fundamental:
+Nombre: Interconnection Electric
+Vol. promedio (3m): 258,4K
+Cap. mercado: 19,61T
+Ingresos: 14,93T
+PER: 7,36
+Beta: 0,531

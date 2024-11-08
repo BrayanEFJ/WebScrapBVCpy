@@ -1,0 +1,32 @@
+Nombre: Canacol Energy
+Último: 9.900,0
+Máximo: 9.900,0
+Mínimo: 9.600,0
+Var.: +500,0
+% Var.: +5,32%
+Vol.: 21,53K
+Hora: 07/11
+
+Ejecución:
+Nombre: Canacol Energy
+Diario: +5,32%
+Semanal: +9,03%
+Mensual: -7,48%
+Anual: -52,40%
+1 año: -50,94%
+3 años: -81,67%
+
+Técnico:
+Nombre: Canacol Energy
+1 hora: 
+Diario: Neutral
+Semanal: Venta fuerte
+Mensual: Venta fuerte
+
+Fundamental:
+Nombre: Canacol Energy
+Vol. promedio (3m): 17,89K
+Cap. mercado: 320,69B
+Ingresos: 339,87M
+PER: 6,18
+Beta: 0,833

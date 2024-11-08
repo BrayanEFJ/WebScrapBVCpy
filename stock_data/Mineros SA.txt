@@ -1,0 +1,32 @@
+Nombre: Mineros SA
+Último: 3.655,00
+Máximo: 3.655,00
+Mínimo: 3.655,00
+Var.: 0,00
+% Var.: 0,00%
+Vol.: 0
+Hora: 06/11
+
+Ejecución:
+Nombre: Mineros SA
+Diario: 0,00%
+Semanal: 0,00%
+Mensual: -1,22%
+Anual: +99,18%
+1 año: +108,86%
+3 años: -7,28%
+
+Técnico:
+Nombre: Mineros SA
+1 hora: 
+Diario: Compra
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Mineros SA
+Vol. promedio (3m): 337,26K
+Cap. mercado: 1,1T
+Ingresos: 479,33M
+PER: 10,48
+Beta: 0,999

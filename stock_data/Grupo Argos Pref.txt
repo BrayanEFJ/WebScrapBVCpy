@@ -1,0 +1,32 @@
+Nombre: Grupo Argos Pref
+Último: 13.440,0
+Máximo: 13.520,0
+Mínimo: 13.420,0
+Var.: -80,0
+% Var.: -0,59%
+Vol.: 21,63K
+Hora: 07/11
+
+Ejecución:
+Nombre: Grupo Argos Pref
+Diario: 0,00%
+Semanal: +0,30%
+Mensual: +14,87%
+Anual: +58,87%
+1 año: +100,60%
+3 años: +56,28%
+
+Técnico:
+Nombre: Grupo Argos Pref
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Grupo Argos Pref
+Vol. promedio (3m): 72,83K
+Cap. mercado: 16,51T
+Ingresos: 22,75T
+PER: 3,98
+Beta: 0,358

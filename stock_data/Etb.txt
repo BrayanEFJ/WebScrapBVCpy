@@ -1,0 +1,32 @@
+Nombre: Etb
+Último: 80,0
+Máximo: 80,0
+Mínimo: 80,0
+Var.: 0,0
+% Var.: 0,00%
+Vol.: 45,03K
+Hora: 06/11
+
+Ejecución:
+Nombre: Etb
+Diario: 0,00%
+Semanal: 0,00%
+Mensual: 0,00%
+Anual: -15,79%
+1 año: +1,65%
+3 años: -60,20%
+
+Técnico:
+Nombre: Etb
+1 hora: 
+Diario: Venta
+Semanal: Venta fuerte
+Mensual: Venta fuerte
+
+Fundamental:
+Nombre: Etb
+Vol. promedio (3m): 136,13K
+Cap. mercado: 284,04B
+Ingresos: 1,58T
+PER: -96,15
+Beta: 0,606

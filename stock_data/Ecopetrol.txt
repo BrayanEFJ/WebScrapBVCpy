@@ -1,0 +1,32 @@
+Nombre: Ecopetrol
+Último: 1.660,0
+Máximo: 1.670,0
+Mínimo: 1.640,0
+Var.: -40,0
+% Var.: -2,35%
+Vol.: 4,49M
+Hora: 07/11
+
+Ejecución:
+Nombre: Ecopetrol
+Diario: -2,35%
+Semanal: -1,19%
+Mensual: -9,78%
+Anual: -29,06%
+1 año: -29,36%
+3 años: -43,48%
+
+Técnico:
+Nombre: Ecopetrol
+1 hora: 
+Diario: Venta fuerte
+Semanal: Venta fuerte
+Mensual: Venta fuerte
+
+Fundamental:
+Nombre: Ecopetrol
+Vol. promedio (3m): 2,57M
+Cap. mercado: 68,25T
+Ingresos: 133,85T
+PER: 4,09
+Beta: 0,74

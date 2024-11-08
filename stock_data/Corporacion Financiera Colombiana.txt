@@ -1,0 +1,32 @@
+Nombre: Corporacion Financiera Colombiana
+Último: 14.000,00
+Máximo: 14.000,00
+Mínimo: 14.000,00
+Var.: -100,00
+% Var.: -0,71%
+Vol.: 2,17K
+Hora: 07/11
+
+Ejecución:
+Nombre: Corporacion Financiera Colombiana
+Diario: 0,00%
+Semanal: -2,10%
+Mensual: +19,66%
+Anual: +23,89%
+1 año: +27,27%
+3 años: -40,43%
+
+Técnico:
+Nombre: Corporacion Financiera Colombiana
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra
+
+Fundamental:
+Nombre: Corporacion Financiera Colombiana
+Vol. promedio (3m): 6,96K
+Cap. mercado: 5,59T
+Ingresos: 8,93T
+PER: 15,19
+Beta: 0,599

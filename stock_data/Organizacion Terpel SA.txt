@@ -1,0 +1,32 @@
+Nombre: Organizacion Terpel SA
+Último: 10.400,00
+Máximo: 10.400,00
+Mínimo: 10.300,00
+Var.: +100,00
+% Var.: +0,97%
+Vol.: 8,47K
+Hora: 07/11
+
+Ejecución:
+Nombre: Organizacion Terpel SA
+Diario: +0,97%
+Semanal: +0,97%
+Mensual: +3,38%
+Anual: +34,19%
+1 año: +58,30%
+3 años: +18,86%
+
+Técnico:
+Nombre: Organizacion Terpel SA
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Organizacion Terpel SA
+Vol. promedio (3m): 44,83K
+Cap. mercado: 1,89T
+Ingresos: 36,52T
+PER: 3,73
+Beta: 0,438

@@ -1,0 +1,32 @@
+Nombre: BanColombia
+Último: 38.000,0
+Máximo: 38.400,0
+Mínimo: 37.500,0
+Var.: -180,0
+% Var.: -0,47%
+Vol.: 91,41K
+Hora: 07/11
+
+Ejecución:
+Nombre: BanColombia
+Diario: 0,00%
+Semanal: +1,01%
+Mensual: +4,91%
+Anual: +14,46%
+1 año: +23,38%
+3 años: +15,57%
+
+Técnico:
+Nombre: BanColombia
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: BanColombia
+Vol. promedio (3m): 113,13K
+Cap. mercado: 36,55T
+Ingresos: 21,12T
+PER: 6,05
+Beta: 1,14

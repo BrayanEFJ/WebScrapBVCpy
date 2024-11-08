@@ -1,0 +1,32 @@
+Nombre: Banco De Bogota
+Último: 27.600,0
+Máximo: 27.800,0
+Mínimo: 27.380,0
+Var.: -240,0
+% Var.: -0,86%
+Vol.: 4,31K
+Hora: 07/11
+
+Ejecución:
+Nombre: Banco De Bogota
+Diario: -0,86%
+Semanal: -2,34%
+Mensual: +1,47%
+Anual: +0,51%
+1 año: +12,20%
+3 años: -62,93%
+
+Técnico:
+Nombre: Banco De Bogota
+1 hora: 
+Diario: Neutral
+Semanal: Neutral
+Mensual: Neutral
+
+Fundamental:
+Nombre: Banco De Bogota
+Vol. promedio (3m): 17,15K
+Cap. mercado: 9,8T
+Ingresos: 4,57T
+PER: 16,67
+Beta: 0,925

@@ -1,0 +1,32 @@
+Nombre: Cementos Argos Pf
+Último: 7.250,0
+Máximo: 7.470,0
+Mínimo: 7.250,0
+Var.: -220,0
+% Var.: -2,95%
+Vol.: 9,83K
+Hora: 07/11
+
+Ejecución:
+Nombre: Cementos Argos Pf
+Diario: -2,95%
+Semanal: -1,23%
+Mensual: -3,07%
+Anual: +61,11%
+1 año: +104,80%
+3 años: +67,44%
+
+Técnico:
+Nombre: Cementos Argos Pf
+1 hora: 
+Diario: Neutral
+Semanal: Venta
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Cementos Argos Pf
+Vol. promedio (3m): 5,23K
+Cap. mercado: 11,41T
+Ingresos: 12,61T
+PER: 19,08
+Beta: 0,848

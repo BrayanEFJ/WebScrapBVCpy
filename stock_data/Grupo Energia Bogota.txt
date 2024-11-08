@@ -1,0 +1,32 @@
+Nombre: Grupo Energia Bogota
+Último: 2.525,00
+Máximo: 2.535,00
+Mínimo: 2.495,00
+Var.: +25,00
+% Var.: +1,00%
+Vol.: 479,01K
+Hora: 07/11
+
+Ejecución:
+Nombre: Grupo Energia Bogota
+Diario: +1,00%
+Semanal: 0,00%
+Mensual: +2,85%
+Anual: +32,89%
+1 año: +45,53%
+3 años: -6,10%
+
+Técnico:
+Nombre: Grupo Energia Bogota
+1 hora: 
+Diario: Neutral
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Grupo Energia Bogota
+Vol. promedio (3m): 657,09K
+Cap. mercado: 23,18T
+Ingresos: 7,75T
+PER: 9,67
+Beta: 0,342

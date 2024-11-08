@@ -1,0 +1,32 @@
+Nombre: Celsia
+Último: 3.740,0
+Máximo: 3.745,0
+Mínimo: 3.705,0
+Var.: +15,0
+% Var.: +0,40%
+Vol.: 170,04K
+Hora: 07/11
+
+Ejecución:
+Nombre: Celsia
+Diario: +0,40%
+Semanal: -0,27%
+Mensual: -6,38%
+Anual: +26,35%
+1 año: +55,19%
+3 años: -13,02%
+
+Técnico:
+Nombre: Celsia
+1 hora: 
+Diario: Venta fuerte
+Semanal: Venta fuerte
+Mensual: Compra
+
+Fundamental:
+Nombre: Celsia
+Vol. promedio (3m): 186,76K
+Cap. mercado: 3,99T
+Ingresos: 6,44T
+PER: 20,78
+Beta: 0,494

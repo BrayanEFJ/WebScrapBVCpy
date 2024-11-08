@@ -1,0 +1,32 @@
+Nombre: Bancolombia Pf
+Último: 35.420,0
+Máximo: 35.800,0
+Mínimo: 35.400,0
+Var.: -480,0
+% Var.: -1,34%
+Vol.: 378,62K
+Hora: 07/11
+
+Ejecución:
+Nombre: Bancolombia Pf
+Diario: 0,00%
+Semanal: +0,85%
+Mensual: +5,73%
+Anual: +18,38%
+1 año: +31,09%
+3 años: +6,69%
+
+Técnico:
+Nombre: Bancolombia Pf
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Bancolombia Pf
+Vol. promedio (3m): 487,33K
+Cap. mercado: 36,55T
+Ingresos: 21,12T
+PER: 6,05
+Beta: 1,14

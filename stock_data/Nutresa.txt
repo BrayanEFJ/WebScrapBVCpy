@@ -1,0 +1,32 @@
+Nombre: Nutresa
+Último: 80.000,0
+Máximo: 80.000,0
+Mínimo: 72.100,0
+Var.: +1.520,0
+% Var.: +1,94%
+Vol.: 3,08K
+Hora: 07/11
+
+Ejecución:
+Nombre: Nutresa
+Diario: +1,94%
+Semanal: +1,94%
+Mensual: +11,11%
+Anual: +77,78%
+1 año: +64,34%
+3 años: +265,30%
+
+Técnico:
+Nombre: Nutresa
+1 hora: 
+Diario: Compra fuerte
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Nutresa
+Vol. promedio (3m): 2,25K
+Cap. mercado: 36,62T
+Ingresos: 18,06T
+PER: 60,25
+Beta: -0,247

@@ -1,0 +1,32 @@
+Nombre: Promigas
+Último: 7.700,0
+Máximo: 7.700,0
+Mínimo: 7.700,0
+Var.: 0,0
+% Var.: 0,00%
+Vol.: 6,55K
+Hora: 07/11
+
+Ejecución:
+Nombre: Promigas
+Diario: 0,00%
+Semanal: 0,00%
+Mensual: 0,00%
+Anual: +67,39%
+1 año: +87,80%
+3 años: +4,19%
+
+Técnico:
+Nombre: Promigas
+1 hora: 
+Diario: Compra
+Semanal: Compra fuerte
+Mensual: Compra fuerte
+
+Fundamental:
+Nombre: Promigas
+Vol. promedio (3m): 21,72K
+Cap. mercado: 8,74T
+Ingresos: 7,01T
+PER: 7,80
+Beta: 0,465

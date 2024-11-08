@@ -1,0 +1,32 @@
+Nombre: Banco Davivienda Pf
+Último: 18.800,0
+Máximo: 18.900,0
+Mínimo: 18.500,0
+Var.: +200,0
+% Var.: +1,08%
+Vol.: 23,31K
+Hora: 07/11
+
+Ejecución:
+Nombre: Banco Davivienda Pf
+Diario: +1,08%
+Semanal: -0,53%
+Mensual: +3,87%
+Anual: -1,98%
+1 año: +18,39%
+3 años: -43,96%
+
+Técnico:
+Nombre: Banco Davivienda Pf
+1 hora: 
+Diario: Neutral
+Semanal: Venta
+Mensual: Venta
+
+Fundamental:
+Nombre: Banco Davivienda Pf
+Vol. promedio (3m): 37,61K
+Cap. mercado: 9,17T
+Ingresos: 4,08T
+PER: -8,59
+Beta: 0,661
